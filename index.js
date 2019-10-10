@@ -10,11 +10,17 @@ module.exports = {
       }
     ],
     [
-      "@semantic-release/git",
+      "@semantic-release/exec",
+      {
+        prepareCmd: "npm version ${nextRelease.version}"
+      }
+    ],
+    [
+      ("@semantic-release/git",
       {
         message:
           "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
-      }
+      })
     ]
   ]
 };
