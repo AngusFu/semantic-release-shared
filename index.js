@@ -12,7 +12,7 @@ module.exports = {
     [
       "@semantic-release/exec",
       {
-        publishCmd: "npm version ${nextRelease.version}"
+        publishCmd: "npm version --allow-same-version ${nextRelease.version}"
       }
     ],
     [
