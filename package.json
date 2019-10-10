@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/AngusFu/semantic-release-shared.git"
   },
-  "author": "",
+  "author": "wemlion <angusfu1126@qq.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AngusFu/semantic-release-shared/issues"
