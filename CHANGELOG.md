@@ -1,5 +1,13 @@
 # Change Log
 
+# [1.1.0](https://github.com/AngusFu/semantic-release-shared/compare/v1.0.0...v1.1.0) (2019-10-10)
+
+
+### Features
+
+* expose semantic-release cmd ([688d4e9](https://github.com/AngusFu/semantic-release-shared/commit/688d4e96089acaafc94f99ed468c0279eea92fab))
+* support auto publishing ([4a2f78b](https://github.com/AngusFu/semantic-release-shared/commit/4a2f78bdc9a6f5f8933e1f1cfee2b52884187b8f))
+
 # 1.0.0 (2019-10-10)
 
 
