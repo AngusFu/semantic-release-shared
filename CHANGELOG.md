@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.1.1](https://github.com/AngusFu/semantic-release-shared/compare/v1.1.0...v1.1.1) (2019-10-10)
+
+
+### Bug Fixes
+
+* bin command ([85161e0](https://github.com/AngusFu/semantic-release-shared/commit/85161e0efbc73ad08659970fcfc0862e9b702838))
+
 # [1.1.0](https://github.com/AngusFu/semantic-release-shared/compare/v1.0.0...v1.1.0) (2019-10-10)
 
 
